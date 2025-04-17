@@ -1,0 +1,8 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+<link href="http://funstat.link/feed.xml" rel="self" type="application/atom+xml"/>
+<link href="http://funstat.link/" rel="alternate" type="text/html"/>
+<updated>2024-12-17T08:46:47+00:00</updated>
+<id>http://funstat.online/feed.xml</id>
+<title type="html">FunStat Bot</title>
+<subtitle>FunStat тг бот анализирует переписки и другую информацию о пользователях Телеграм из миллионов групп. Собирать историю изменений имен и переписок.</subtitle>
+</feed>
